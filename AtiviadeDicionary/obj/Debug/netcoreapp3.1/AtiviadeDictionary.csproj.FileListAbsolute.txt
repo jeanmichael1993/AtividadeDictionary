@@ -1,0 +1,12 @@
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.exe
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.deps.json
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.runtimeconfig.json
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.runtimeconfig.dev.json
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.dll
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\bin\Debug\netcoreapp3.1\AtiviadeDictionary.pdb
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.AssemblyInfoInputs.cache
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.AssemblyInfo.cs
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.dll
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.pdb
+C:\Users\jeanm\source\repos\AtiviadeDicionary\AtiviadeDicionary\obj\Debug\netcoreapp3.1\AtiviadeDictionary.genruntimeconfig.cache
